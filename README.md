@@ -1,0 +1,2 @@
+# EASYBOTwithGemini
+ CHATBOT FOR MOBILE
